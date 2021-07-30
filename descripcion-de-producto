@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="es-Ar">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=KoHo:400,400i,500,500i,600,600i,700,700i&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/main2.css" />
+    <script src="https://kit.fontawesome.com/600d9c40f5.js"></script>
+
+    <title>Chorizos Castex</title>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145698713-1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-145698713-1');
+    </script>
+
+
+  </head>
+  <body>
+
+    <?php include("includes/preheader.php"); ?>
+
+    <?php include("includes/header.php"); ?>
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2 class="tituloDestacadoPagina">DESCRIPCION DE PRODUCTO</h2>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <hr> <br>
+            </div>
+        </div>
+    </div>
+
+    
+    <section class="descripcionChorizos">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-4">
+                    <img src="assets/images/bandeja-descripcion.png" alt="">
+                </div>
+
+                <div class="col-sm-12 col-md-8">
+                    <article>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, quaerat ut mollitia 
+                            doloremque nihil unde nulla ratione aspernatur sunt dicta aperiam veniam nemo. Veniam 
+                            dolorem nobis nihil quos soluta ex!
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, quaerat ut mollitia 
+                            doloremque nihil unde nulla ratione aspernatur sunt dicta aperiam veniam nemo. Veniam 
+                            dolorem nobis nihil quos soluta ex!
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, quaerat ut mollitia 
+                            doloremque nihil unde nulla ratione aspernatur sunt dicta aperiam veniam nemo. Veniam 
+                            dolorem nobis nihil quos soluta ex!
+                        </p>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <div class="container contenedorBlack">
+        <div class="row">
+            <div class="col">
+                <h2>INFORMACION NUTRICIONAL</h2>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container infoNutricional">
+        <div class="row">
+            <div class="col-sm-12 col-md-7">
+                <article>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit culpa sit enim illum 
+                        atque error veritatis debitis, aspernatur amet, qui blanditiis natus eveniet doloribus 
+                        molestias. Odio possimus amet numquam molestiae.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit culpa sit enim illum 
+                        atque error veritatis debitis, aspernatur amet, qui blanditiis natus eveniet doloribus 
+                        molestias. Odio possimus amet numquam molestiae.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit culpa sit enim illum 
+                        atque error veritatis debitis, aspernatur amet, qui blanditiis natus eveniet doloribus 
+                        molestias. Odio possimus amet numquam molestiae.
+                    </p>
+
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit culpa sit enim illum 
+                        atque error veritatis debitis, aspernatur amet, qui blanditiis natus eveniet doloribus 
+                        molestias. Odio possimus amet numquam molestiae.
+                    </p>
+
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit culpa sit enim illum 
+                        atque error veritatis debitis, aspernatur amet, qui blanditiis natus eveniet doloribus 
+                        molestias. Odio possimus amet numquam molestiae.
+                    </p>
+                </article>
+            </div>
+
+            <div class="col-sm-12 col-md-5">
+                <img src="assets/images/info-nutricional.png" alt="">
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container contenedorBlack">
+        <div class="row">
+            <div class="col">
+                <h2>RECETAS SUGERIDAS</h2>
+            </div>
+        </div>
+    </div>
+
+
+    <section class="recetas">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-3 ajuste">
+                    <img src="assets/images/foto-receta.png" alt="">
+                    <h3>Nombre de la receta</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    </p>
+                    <a href="#">VER MAS</a>
+                </div>
+
+                <div class="col-sm-12 col-md-3 ajuste">
+                    <img src="assets/images/foto-receta.png" alt="">
+                    <h3>Nombre de la receta</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    </p>
+                    <a href="#">VER MAS</a>
+                </div>
+
+                <div class="col-sm-12 col-md-3 ajuste">
+                    <img src="assets/images/foto-receta.png" alt="">
+                    <h3>Nombre de la receta</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    </p>
+                    <a href="#">VER MAS</a>
+                </div>
+
+                <div class="col-sm-12 col-md-3 ajuste">
+                    <img src="assets/images/foto-receta.png" alt="">
+                    <h3>Nombre de la receta</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    </p>
+                    <a href="#">VER MAS</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <?php include("includes/pautaburger.php"); ?>
+
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <?php include("includes/titulorecetas.php"); ?>
+
+    <?php include("includes/recetadestacada.php"); ?>
+
+    <?php include("includes/extractohistoria.php"); ?>
+
+    <?php include("includes/cerdito.php"); ?>
+
+    <?php include("includes/prefooter.php"); ?>
+
+    <?php include("includes/footer.php"); ?>
+
+    
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
